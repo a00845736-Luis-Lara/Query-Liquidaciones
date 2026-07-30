@@ -1,0 +1,16 @@
+# Secrets reales (nunca subir)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datos locales
+*.xlsx
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
