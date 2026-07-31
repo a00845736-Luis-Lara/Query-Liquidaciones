@@ -1,5 +1,6 @@
 # 📦 Tablero Ejecutivo · Control de Salidas (Data Query)
 
+link dashboard: https://dashboardpy-wx9jtjueeo4bqhhunaqzsc.streamlit.app/
 Dashboard en **Streamlit** que lee **en vivo** el archivo `Data Query - estados.xlsx`
 publicado en **SharePoint / Excel Web** y lo muestra como un tablero tipo "sala de
 control" (tema oscuro).
