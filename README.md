@@ -5,6 +5,8 @@ Dashboard en **Streamlit** que lee **en vivo** el archivo `Data Query - estados.
 publicado en **SharePoint / Excel Web** y lo muestra como un tablero tipo "sala de
 control" (tema oscuro).
 
+link excel: https://diszasa365-my.sharepoint.com/:x:/g/personal/jaguilar_operadoralogistica_com/IQCoGmfBr55DS4E019WnIjZDAQx_bn-W09KKi1_nCjMx-hY?rtime=iv-BdxHv3kg
+
 No hay que subir archivos manualmente: el dashboard descarga los datos desde el
 link cada vez que se abre y se **refresca solo** cada pocos minutos. Soporta que se
 agreguen nuevos pedidos (nuevas filas) sin cambiar el código.
